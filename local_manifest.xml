@@ -9,6 +9,7 @@
         fetch="https://github.com/LineageOS" />
 
         <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="ae" revision="lineage-18.1"/>
+        <project path="vendor/lawnchair" name="vendor_lawnchair" remote="profile" />
 
         <!-- Sync trees -->
         <project path="device/asus/X01AD" name="android_device_asus_X01AD" remote="profile" revision="Aex-back" />
