@@ -22,7 +22,7 @@
 	<project path="frameworks/base" name="platform_frameworks_base" revision="12.1.x" remote="dumpyardclhex" />	
 	<project path="packages/apps/Settings" name="platform_packages_apps_Settings" revision="12.1.x" remote="dumpyardclhex" />	
 	<project path="vendor/aosp" name="platform_vendor_aosp" revision="12.1.x" remote="dumpyardclhex" />
-        <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="gt" revision="lineage-18.1"/>
+        <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="ae" revision="lineage-18.1"/>
         <project path="vendor/lawnchair" name="vendor_lawnchair" remote="profile" revision="A12" />
 
         <!-- packages -->
